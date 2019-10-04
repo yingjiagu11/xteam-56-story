@@ -1,2 +1,3 @@
 X Team 56 Story
 It is a funny story because of all the homework.
+The homework is hard because of hundred lines of code.
